@@ -6,7 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/sd_sasidharan" target="blank"><img src="https://img.shields.io/twitter/follow/sd_sasidharan?logo=twitter&style=for-the-badge" alt="sd_sasidharan" /></a> </p>
 
-- 🔭 I’m currently working on **Angular Opensource**
+- 🔭 I’m currently working on **Angular**
+
+- 🌱 I’m currently learning **Angular Opensource**
 
 - 📝 I write articles on [https://medium.com/@sasidharansd](https://medium.com/@sasidharansd)
 
