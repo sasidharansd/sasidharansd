@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Angular**
 
-- 📫 How to reach me **sasidharaninfotech@gmail.com**
+- 📫 Reach me **sasidharaninfotech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
