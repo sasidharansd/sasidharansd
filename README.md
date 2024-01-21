@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **Angular 🚀, GO  🌊**
 
-- 🌱 I’m currently learning **Angular, GO Opensource**
-
 - 📝 I write articles on [https://medium.com/@sasidharansd](https://medium.com/@sasidharansd)
 
 - 💬 Ask me about **Angular**
