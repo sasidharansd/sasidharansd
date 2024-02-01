@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1612999083/12510/kirby_dance.gif?1612999083" width="30"/> , I'm SasiDharan SD</h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1612999083/12510/kirby_dance.gif?1612999083" width="30"/> , I'm Sasidharan SD</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
